@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm player1.so
+cp ~/Downloads/player_minimax.so player1.so
